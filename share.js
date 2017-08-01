@@ -20,9 +20,9 @@
 
 
             if ((screen.width < 480) || (screen.height < 480)) {
-                window.open ('https://www.facebook.com/share.php?u=https:/www.ion-book.com', '', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);
+                window.open ('https://www.facebook.com/share.php?u=https://www.ion-book.com', '', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);
             } else {
-                window.open ('https://www.facebook.com/share.php?u=https:/www.ion-book.com', '', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);
+                window.open ('https://www.facebook.com/share.php?u=https://www.ion-book.com', '', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);
             }
     });
 
